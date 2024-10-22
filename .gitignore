@@ -1,0 +1,8 @@
+## Build generated
+build/
+DerivedData/
+cache/
+dist/
+
+*.DS_Store
+
